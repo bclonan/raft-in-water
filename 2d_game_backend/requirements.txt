@@ -1,0 +1,12 @@
+Flask
+numpy
+pandas
+python-dotenv
+flask-cors
+torc
+tensorflow 
+matplotlib
+keras
+scikit-learn
+setuptools
+turtle
